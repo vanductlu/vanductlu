@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg" style="text-align:center;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9933F6DA&center=true&multiline=true&width=435&lines=Hello!+I'm+Duc;LOVE+YOU+%F0%9F%92%93%F0%9F%92%8C" alt="Typing SVG" /></a>
-
+<p align="center">
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9933F6DA&center=true&multiline=true&width=435&lines=Hello!+I'm+Duc;LOVE+YOU+%F0%9F%92%93%F0%9F%92%8C" alt="Typing SVG" /></a>
+</p>
 <img align="center" alt="GIF" src="https://github.com/vanductlu/vanductlu/blob/main/code.gif?raw=true" width="500" height="320" />
 
 

@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanductlu&theme=dark&card_width=220&line_height=100" height="250px" />
   <img src="https://github-readme-stats.vercel.app/api?username=vanductlu&show_icons=true&theme=radical">
 </p>
-<img align="right" alt="GIF" src="https://github.com/vanductlu/vanductlu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/vanductlu/vanductlu/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 

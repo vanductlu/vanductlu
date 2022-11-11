@@ -1,4 +1,4 @@
-# Hello Wolrd! I'm Nguyễn Văn Đức
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9933F6DA&center=true&multiline=true&width=435&lines=Hello!+I'm+Duc;LOVE+YOU+%F0%9F%92%93%F0%9F%92%8C)](https://git.io/typing-svg)
 
 <img align="center" alt="GIF" src="https://github.com/vanductlu/vanductlu/blob/main/code.gif?raw=true" width="500" height="320" />
 
